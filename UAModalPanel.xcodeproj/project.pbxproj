@@ -24,7 +24,6 @@
 		E65CAB3514CFB98C004F3776 /* UAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E65CAB2414CFB98C004F3776 /* UAViewController.m */; };
 		E65CAB3614CFB98C004F3776 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E65CAB2614CFB98C004F3776 /* main.m */; };
 		E65CAB3A14CFB98C004F3776 /* UAAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E65CAB2F14CFB98C004F3776 /* UAAppDelegate.m */; };
-		E65CAB3B14CFB98C004F3776 /* UAModalPanel-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E65CAB3014CFB98C004F3776 /* UAModalPanel-Info.plist */; };
 		E65CAB3C14CFB98C004F3776 /* UrbanApps.png in Resources */ = {isa = PBXBuildFile; fileRef = E65CAB3214CFB98C004F3776 /* UrbanApps.png */; };
 		E65CAB4314CFB9A8004F3776 /* UAViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = E65CAB3D14CFB9A8004F3776 /* UAViewController_iPhone.xib */; };
 		E65CAB4414CFB9A8004F3776 /* UAViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = E65CAB3F14CFB9A8004F3776 /* UAViewController_iPad.xib */; };
@@ -270,7 +269,6 @@
 				E65CAB1A14CFB930004F3776 /* close.png in Resources */,
 				E65CAB1B14CFB930004F3776 /* close@2x.png in Resources */,
 				E65CAB3414CFB98C004F3776 /* UAExampleView.xib in Resources */,
-				E65CAB3B14CFB98C004F3776 /* UAModalPanel-Info.plist in Resources */,
 				E65CAB3C14CFB98C004F3776 /* UrbanApps.png in Resources */,
 				E65CAB4314CFB9A8004F3776 /* UAViewController_iPhone.xib in Resources */,
 				E65CAB4414CFB9A8004F3776 /* UAViewController_iPad.xib in Resources */,
